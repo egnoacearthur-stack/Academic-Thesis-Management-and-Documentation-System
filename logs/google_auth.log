@@ -1,0 +1,11 @@
+[2025-11-20 19:05:34] FATAL: Array
+(
+    [type] => 1
+    [message] => Uncaught Error: Call to undefined method mysqli::insert_id() in C:\xampp\htdocs\thesis_management\google_auth.php:208
+Stack trace:
+#0 {main}
+  thrown
+    [file] => C:\xampp\htdocs\thesis_management\google_auth.php
+    [line] => 208
+)
+
